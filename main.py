@@ -21,3 +21,12 @@ if me:
 first = input("whats your first name? ")
 last  = input("whats your last name?")
 print(first +  last, " it's nice to meet you!")
+
+email = input("Enter your email:  ")
+city  = input("Enter your city:  ")
+phone = input("Enter phone: ")
+
+print("Does this look correct?:")
+print(first +  last, city)
+print(email, phone)
+
