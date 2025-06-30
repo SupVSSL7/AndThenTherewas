@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad892a2-5d63-411b-8c2b-209d99c5c20c" name="Changes" comment="A few exercises from John Elder to get the coding juices going">
+    <list default="true" id="5ad892a2-5d63-411b-8c2b-209d99c5c20c" name="Changes" comment="A few exercises from John Elder to get the coding juices going, few updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -15,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -81,7 +84,55 @@
       <option name="project" value="LOCAL" />
       <updated>1749454430447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A few exercises from John Elder to get the coding juices going, few updates">
+      <option name="closed" value="true" />
+      <created>1749761924057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749761924057</updated>
+    </task>
+    <task id="LOCAL-00003" summary="A few exercises from John Elder to get the coding juices going, few updates">
+      <option name="closed" value="true" />
+      <created>1749762057200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749762057200</updated>
+    </task>
+    <task id="LOCAL-00004" summary="A few exercises from John Elder to get the coding juices going, few updates">
+      <option name="closed" value="true" />
+      <created>1749762084490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749762084490</updated>
+    </task>
+    <task id="LOCAL-00005" summary="A few exercises from John Elder to get the coding juices going, few updates">
+      <option name="closed" value="true" />
+      <created>1749762515704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749762515704</updated>
+    </task>
+    <task id="LOCAL-00006" summary="A few exercises from John Elder to get the coding juices going, few updates">
+      <option name="closed" value="true" />
+      <created>1749762635712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749762635712</updated>
+    </task>
+    <task id="LOCAL-00007" summary="A few exercises from John Elder to get the coding juices going, few updates">
+      <option name="closed" value="true" />
+      <created>1749762687832</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749762687832</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,7 +140,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -97,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A few exercises from John Elder to get the coding juices going" />
-    <option name="LAST_COMMIT_MESSAGE" value="A few exercises from John Elder to get the coding juices going" />
+    <MESSAGE value="A few exercises from John Elder to get the coding juices going, few updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="A few exercises from John Elder to get the coding juices going, few updates" />
   </component>
 </project>
