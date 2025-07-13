@@ -34,15 +34,16 @@ print(email, phone)
 #else:
 #   print("just start over again, please..")'''
 
-x=42
-if x==41:
-    print(" X does in fact equal 42")
-
-x = 42
-if x == 42:
-    print(f'{int(x)} does in FACT equal X')
+x = input("Enter a number: ")
+if int(x) == 41:
+    print(x + f"does in fact equal 41")
 else:
-    print("x does NOT equal 42")
+    y = input("pick another number: ")
+
+    if int(y) == 42:
+        print(f'My number does in FACT equal 42')
+    else:
+        print(f"Your answer does NOT equal 42")
 
 name = input("what is your name: ")
 if name == "holly":
@@ -52,11 +53,10 @@ elif name == "kelley":
 else:
     print("WHO ARE YOU again BRO?")
 
-name = "holly"
-if name == "holly" or name == "kelley":
-    print("THERES THAT HOT COUPLE!!")
-else:
-    print("You're not Holly or Kelley")
+###name = "holly"
+#if name == "holly" or name == "kelley":
+#    print("THERES THAT HOT COUPLE!!")
+#    print("You're not Holly or Kelley")
 
 
 
