@@ -36,7 +36,7 @@ print(email, phone)
 
 x = input("Enter a number: ")
 if int(x) == 41:
-    print(x + f"does in fact equal 41")
+    print(x + f"does match my choice--41")
 else:
     y = input("pick another number: ")
 
@@ -46,17 +46,18 @@ else:
         print(f"Your answer does NOT equal 42")
 
 name = input("what is your name: ")
-if name == "holly":
-    print("Hey " + name + " BABY!!")
-elif name == "kelley":
-    print("AY " + name + " THATS MY DAWG!")
+if name.lower() == "holly":
+    print("Hey " + name.upper() + " BABY!!")
+elif name.lower() == "kelley":
+    print("AY " + name.upper() + " THATS MY DAWG!")
+if name.lower() == "holly" or name == "kelley":
+    print("THERES THAT HOT COUPLE!!")
 else:
     print("WHO ARE YOU again BRO?")
+    print("You're not Holly or Kelley")
 
-###name = "holly"
-#if name == "holly" or name == "kelley":
-#    print("THERES THAT HOT COUPLE!!")
-#    print("You're not Holly or Kelley")
+
+
 
 
 

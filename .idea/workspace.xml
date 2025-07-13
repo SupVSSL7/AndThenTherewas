@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad892a2-5d63-411b-8c2b-209d99c5c20c" name="Changes" comment="A few exercises from John Elder: drilling foundations if/elif/else">
+    <list default="true" id="5ad892a2-5d63-411b-8c2b-209d99c5c20c" name="Changes" comment="A few exercises from John Elder: drilling foundations if/elif/else.&#10;Evolved operations and messaging, tested and working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751266936381</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="A few exercises from John Elder: drilling foundations if/elif/else.&#10;Evolved operations and messaging, tested and working">
+      <option name="closed" value="true" />
+      <created>1752385067439</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752385067439</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +172,7 @@
     <MESSAGE value="A few exercises from John Elder to get the coding juices going" />
     <MESSAGE value="A few exercises from John Elder to get the coding juices going, few updates" />
     <MESSAGE value="A few exercises from John Elder: drilling foundations if/elif/else" />
-    <option name="LAST_COMMIT_MESSAGE" value="A few exercises from John Elder: drilling foundations if/elif/else" />
+    <MESSAGE value="A few exercises from John Elder: drilling foundations if/elif/else.&#10;Evolved operations and messaging, tested and working" />
+    <option name="LAST_COMMIT_MESSAGE" value="A few exercises from John Elder: drilling foundations if/elif/else.&#10;Evolved operations and messaging, tested and working" />
   </component>
 </project>
